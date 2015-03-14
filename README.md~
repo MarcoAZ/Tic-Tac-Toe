@@ -1,2 +1,0 @@
-#Tic Tac Toe Game
-A tic-tac-toe game using 3D arrays and command line arguments. It allows two users to play tic-tac-toe and view the board after each move. A 3 x 3 array represents the board and it must be consulted to confirm legal moves, a full board, and a victory condition. Another aspect of the program is the ability to select the number of games to play with a command line argument. Without a command line argument, only one game is played.
